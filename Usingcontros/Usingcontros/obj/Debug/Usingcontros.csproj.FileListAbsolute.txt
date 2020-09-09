@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Usingcontros\Usingcontros\bin\Debug\Usingcontros.exe.config
+C:\Users\user\source\repos\Usingcontros\Usingcontros\bin\Debug\Usingcontros.exe
+C:\Users\user\source\repos\Usingcontros\Usingcontros\bin\Debug\Usingcontros.pdb
+C:\Users\user\source\repos\Usingcontros\Usingcontros\obj\Debug\Usingcontros.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Usingcontros\Usingcontros\obj\Debug\Usingcontros.MainForm.resources
+C:\Users\user\source\repos\Usingcontros\Usingcontros\obj\Debug\Usingcontros.Properties.Resources.resources
+C:\Users\user\source\repos\Usingcontros\Usingcontros\obj\Debug\Usingcontros.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Usingcontros\Usingcontros\obj\Debug\Usingcontros.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Usingcontros\Usingcontros\obj\Debug\Usingcontros.exe
+C:\Users\user\source\repos\Usingcontros\Usingcontros\obj\Debug\Usingcontros.pdb

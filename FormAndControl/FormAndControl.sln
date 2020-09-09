@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormAndControl", "FormAndControl\FormAndControl.csproj", "{6E00EB0D-2EAA-4DD9-AFA5-7203E6CEB727}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E00EB0D-2EAA-4DD9-AFA5-7203E6CEB727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E00EB0D-2EAA-4DD9-AFA5-7203E6CEB727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E00EB0D-2EAA-4DD9-AFA5-7203E6CEB727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E00EB0D-2EAA-4DD9-AFA5-7203E6CEB727}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19BAE0B6-0BAF-440C-9997-985D1C4C2B14}
+	EndGlobalSection
+EndGlobal
